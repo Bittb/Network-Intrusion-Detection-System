@@ -28,20 +28,13 @@ Python 3.x
 
 Required Python libraries (see requirements.txt)
 
-Steps
-
-Clone the repository:
-
-git clone https://github.com/your-username/nids.git
-cd nids
-
 Install dependencies:
 
 pip install -r requirements.txt
 
 Run the system:
 
-python main.py
+python nids1.py
 
 Usage
 
